@@ -1,0 +1,18 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: dde-am
+Upstream-Contact: linuxdeepin <xiangzelong@deepin.org>
+Source: https://github.com/linuxdeepin/dde-am
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
+
+Files: .clang-format
+Copyright: 
+License: CC0-1.0
+
+Files: .gitignore
+Copyright:
+License: CC0-1.0

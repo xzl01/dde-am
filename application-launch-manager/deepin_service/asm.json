@@ -1,0 +1,18 @@
+{
+    "name": "org.deepin.Application1.StartManager",
+    "pluginPath": "dde-asm.so",
+    "group": "dde",
+    "pluginType": "qt",
+    "version": "1.0",
+    "startType": "Resident",
+    "dependencies": [],
+    "startDelay": 0,
+    "policy": [
+      {
+        "path": "/org/deepin/service/demo1"
+      },
+      {
+        "path": "/org/deepin/service/demo2"
+      }
+    ]
+  }
